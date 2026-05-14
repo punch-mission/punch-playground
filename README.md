@@ -1,6 +1,8 @@
 # PUNCH Playground
 A collection of example notebooks for PUNCH.
 
+To get setup for the first time with a local Python installation, follow the [suggested guide](python_install.md).
+
 > [!NOTE]
 > The punchbowl documentation has an additional set of notebooks in an [example gallery](https://punchbowl.readthedocs.io/en/latest/auto_examples/index.html).
 > These are duplicated in the **readthedocs** folder.
