@@ -1,0 +1,2 @@
+This is a copy of examples from the [punchbowl example gallery](https://punchbowl.readthedocs.io/en/latest/auto_examples/index.html). 
+For the guaranteed up-to-date versions please visit the example gallery.
