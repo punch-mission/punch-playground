@@ -2,7 +2,8 @@
 A collection of example notebooks for PUNCH.
 
 > [!NOTE]
-> The punchbowl documentation has an additional set of notebooks in an [example gallery](https://punchbowl.readthedocs.io/en/latest/auto_examples/index.html). 
+> The punchbowl documentation has an additional set of notebooks in an [example gallery](https://punchbowl.readthedocs.io/en/latest/auto_examples/index.html).
+> These are duplicated in the **readthedocs** folder.
 > The difference is that those notebooks are guaranteed by the SOC to run fast while these may take longer.
 > (Notebooks in the example gallery are required to run fast because 
 > they are part of the generation of the documentation website.)
