@@ -17,6 +17,7 @@ or emailing `punch_soc@swri.org` with your notebook.
 
 ## What's here?
 
+- **community-created**: notebooks contributed by the community
 - **punch7**: notebooks from the PUNCH 7 conference
 - **readthedocs**: duplication of notebooks from the punchbowl example gallery
 - **sandbox**: notebooks from various bimonthly PUNCH meetings
